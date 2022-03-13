@@ -44,4 +44,9 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
 # react-test-app
+
+https://app.tanukizzan.com/react-test-app/
+
+[Tanukizzan Apps](https://app.tanukizzan.com/) をReactで再現してみました。使い始めたばかりなのでもう少し慣れたら本ページもReact製に変えるつもりです。

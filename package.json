@@ -2,7 +2,7 @@
   "name": "tanukizzan-apps",
   "version": "0.1.1",
   "private": true,
-  "homepage": "https://tanukizzan.github.io/react-test-app",
+  "homepage": "https://app.tanukizzan.com/react-test-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.3",
